@@ -1,0 +1,9 @@
+{
+  "category.MyZoom":  "MyZoom",
+  "key.MyZoom.Zoom":  "Zoom",
+  "text.config.my-zoom-config.title": "Settings MyZoom",
+  "text.config.my-zoom-config.option.ZoomMultiplier": "Zoom(of x times):",
+
+  "modmenu.summaryTranslation.my-zoom": "Simple and convenient zoom",
+  "modmenu.descriptionTranslation.my-zoom": "The MyZoom mod provides a zoom feature that is sometimes lacking in vanilla Minecraft.\nThis mod also has the ability to change the zoom magnification in the config."
+}

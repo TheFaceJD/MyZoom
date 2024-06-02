@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "my-zoom",
+  "version": "${version}",
+  "name": "My Zoom",
+  "description": "The MyZoom mod provides a zoom feature that is sometimes lacking in vanilla Minecraft.\nThis mod also has the ability to change the zoom magnification in the config.",
+  "authors": [
+    "TheFaceJD"
+  ],
+  "contact": {
+    "repo": "https://github.com/thefacejd/MyZoom"
+  },
+  "license": "MIT License",
+  "icon": "assets/my-zoom/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "org.thefacejd.myzoom.MyZoom"
+    ]
+  },
+  "mixins": [
+    "my-zoom.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

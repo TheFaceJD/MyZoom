@@ -1,0 +1,9 @@
+{
+  "category.MyZoom":  "MyZoom",
+  "key.MyZoom.Zoom":  "Приближение",
+  "text.config.my-zoom-config.title": "Настройки MyZoom",
+  "text.config.my-zoom-config.option.ZoomMultiplier": "Приближение(в x раз)",
+
+  "modmenu.summaryTranslation.my-zoom": "Простой и удобный зум",
+  "modmenu.descriptionTranslation.my-zoom": "Мод MyZoom предоставляет возможность приближения, чего порой не хватает в ванильном Майнкрафте.\nЭтот мод также имеет возможность изменения кратности зума в конфиге."
+}
