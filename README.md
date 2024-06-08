@@ -1,4 +1,5 @@
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/g2wdatnc?style=for-the-badge&label=Modrinth&color=%2318c05e&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fmyzoom)
+# MyZoom
+[![Modrinth](https://img.shields.io/modrinth/dt/g2wdatnc?style=flat-square&label=Modrinth&color=%2318c05e)](https://modrinth.com/mod/myzoom)
 
 A simple and straightforward zoom mod. 
 It allows the use of zoom with smooth animation, enabling the ability to see into the distance. 
